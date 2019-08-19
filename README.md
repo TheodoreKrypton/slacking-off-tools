@@ -11,3 +11,6 @@
 将手机屏幕同步到电脑上 | [https://github.com/barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 在JetBrains IDE中看小说 | [https://github.com/yisier/thief-book-idea](https://github.com/yisier/thief-book-idea)
 上班刷leetcode | [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+
+其他摸鱼工具集合
+[给所有人的上班摸鱼指南](https://sweeney.wang/2018/09/30/Touch-Fish/)
