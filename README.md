@@ -13,6 +13,7 @@
 上班刷leetcode | [https://github.com/jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
 在地址栏玩贪吃蛇 | [https://github.com/epidemian/snake](https://github.com/epidemian/snake)
 在控制台中看小说 | [https://github.com/TimothyYe/glance](https://github.com/TimothyYe/glance)
+在Outlook里看Reddit | [https://pcottle.github.io/MSOutlookit/](https://pcottle.github.io/MSOutlookit/)
 
 其他摸鱼工具集合
 [给所有人的上班摸鱼指南](https://sweeney.wang/2018/09/30/Touch-Fish/)
