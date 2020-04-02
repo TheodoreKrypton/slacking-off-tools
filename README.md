@@ -15,6 +15,8 @@
 在控制台中看小说 | [https://github.com/TimothyYe/glance](https://github.com/TimothyYe/glance)
 在Outlook里看Reddit | [https://pcottle.github.io/MSOutlookit/](https://pcottle.github.io/MSOutlookit/)
 摸鱼网 | [https://mo.fish/](https://mo.fish/)
+命令行版【无尽的进度条】 | [https://github.com/rr-/pq-cli](https://github.com/rr-/pq-cli)
+命令行斗地主 | [https://gitee.com/ainilili/ratel](https://gitee.com/ainilili/ratel)
 
 
 其他摸鱼工具集合
