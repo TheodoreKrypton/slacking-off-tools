@@ -17,6 +17,8 @@
 摸鱼网 | [https://mo.fish/](https://mo.fish/)
 命令行版【无尽的进度条】 | [https://github.com/rr-/pq-cli](https://github.com/rr-/pq-cli)
 命令行斗地主 | [https://gitee.com/ainilili/ratel](https://gitee.com/ainilili/ratel)
+在Visual Studio看微信读书 | [https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read](https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read)
+VS Code RSS阅读器 | [https://github.com/luyuhuang/vscode-rss](https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read)
 
 
 其他摸鱼工具集合
