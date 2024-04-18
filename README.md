@@ -21,6 +21,7 @@
 VS Code RSS阅读器 | [https://github.com/luyuhuang/vscode-rss](https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read)
 VS Code 知乎 | [https://github.com/niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu)
 用Gradle看小说 | [https://github.com/iamyours/ReaderPlugin](https://github.com/iamyours/ReaderPlugin)
+用VSCode看股票 | [https://github.com/LeekHub/leek-fund](https://github.com/LeekHub/leek-fund)
 
 其他摸鱼工具集合
 [给所有人的上班摸鱼指南](https://sweeney.wang/2018/09/30/Touch-Fish/)
