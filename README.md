@@ -18,6 +18,7 @@
 命令行版【无尽的进度条】 | [https://github.com/rr-/pq-cli](https://github.com/rr-/pq-cli)
 命令行斗地主/德州扑克 | [https://github.com/ainilili/ratel](https://github.com/ainilili/ratel)
 在Visual Studio看微信读书 | [https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read](https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read)
+VS Code 网易云音乐 | [https://github.com/nondanee/vsc-netease-music](https://github.com/nondanee/vsc-netease-music)
 VS Code RSS阅读器 | [https://github.com/luyuhuang/vscode-rss](https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read)
 VS Code 知乎 | [https://github.com/niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu)
 用Gradle看小说 | [https://github.com/iamyours/ReaderPlugin](https://github.com/iamyours/ReaderPlugin)
