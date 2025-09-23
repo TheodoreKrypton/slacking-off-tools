@@ -24,6 +24,7 @@ VS Code 知乎 | [https://github.com/niudai/VSCode-Zhihu](https://github.com/niu
 用Gradle看小说 | [https://github.com/iamyours/ReaderPlugin](https://github.com/iamyours/ReaderPlugin)
 用VSCode看股票 | [https://github.com/LeekHub/leek-fund](https://github.com/LeekHub/leek-fund)
 Touchbar看小说 | [https://github.com/cteamx/Thief](https://github.com/cteamx/Thief)
+侧边栏摸鱼工具集 | [https://github.com/baby7/baby7-desktop-tool](https://github.com/baby7/baby7-desktop-tool)
 
 其他摸鱼工具集合
 [给所有人的上班摸鱼指南](https://sweeney.wang/2018/09/30/Touch-Fish/)
